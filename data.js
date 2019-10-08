@@ -3276,7 +3276,7 @@
                   6,
                   6,
                   " !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_",
-                  "CHARA LV19",
+                  "CAM LV830",
                   3,
                   0,
                   0,
@@ -4130,7 +4130,7 @@
                     null,
                     9190566972510164,
                     false,
-                    [[7, [10, [19, 26, [[23, "Name"]]], [2, "   LV 19"]]]]
+                    [[7, [10, [19, 26, [[23, "Name"]]], [2, "   LV 830"]]]]
                   ]
                 ]
               ],
@@ -6788,7 +6788,7 @@
                             7,
                             [
                               2,
-                              "* You felt your sins crawling\n  on your back."
+                              "* Nick's fucking pissed"
                             ]
                           ]
                         ]
@@ -6840,7 +6840,7 @@
                             7,
                             [
                               2,
-                              "* You feel like you're going to\n  have a bad time."
+                              "* I don't think we can stop him"
                             ]
                           ]
                         ]
@@ -6943,7 +6943,7 @@
                         null,
                         2670032810893258,
                         false,
-                        [[10, 4], [7, [2, "* Sans is taking a break."]]]
+                        [[10, 4], [7, [2, "* Nick needs a nap."]]]
                       ]
                     ]
                   ],
@@ -6974,7 +6974,7 @@
                         null,
                         3736070576317147,
                         false,
-                        [[10, 4], [7, [2, "* The REAL battle finally begins."]]]
+                        [[10, 4], [7, [2, "* You're so fucked Cam."]]]
                       ]
                     ]
                   ],
@@ -7049,7 +7049,7 @@
                           [10, 4],
                           [
                             7,
-                            [2, "* Sans is starting to look\n  really tired."]
+                            [2, "* Nick is starting to look\n  really tired."]
                           ]
                         ]
                       ]
@@ -7082,7 +7082,7 @@
                         null,
                         6593676851472784,
                         false,
-                        [[10, 4], [7, [2, "* Sans is preparing something."]]]
+                        [[10, 4], [7, [2, "* Pacman\n* Pacman\n* Pacman."]]]
                       ]
                     ]
                   ],
@@ -7119,7 +7119,7 @@
                             7,
                             [
                               2,
-                              "* Sans is getting ready to\n  use his special attack."
+                              "* Forehead."
                             ]
                           ]
                         ]
@@ -8123,7 +8123,7 @@
                             [7, [0, 64]],
                             [7, [0, 272]],
                             [7, [0, 0]],
-                            [7, [2, "* Sans"]],
+                            [7, [2, "* Nick"]],
                             [7, [23, "Action"]]
                           ]
                         ]
@@ -8958,7 +8958,7 @@
                         7,
                         [
                           2,
-                          "* SANS 1 ATK 1 DEF\n* The easiest enemy.\n* Can only deal 1 damage."
+                          "* Nick 100000 ATK 100000 DEF\n* Oh god oh fuck.\n* We're so fucked right now."
                         ]
                       ]
                     ]
@@ -27926,7 +27926,7 @@
           [1, "EndlessStage", 0, 0, false, false, 1966297049622465, false],
           [1, "PracticeTarget", 0, 60, false, false, 824857649224256, false],
           [1, "SingleAttack", 1, "", false, false, 9637412728316299, false],
-          [1, "Name", 1, "Chara", false, false, 8522084662131715, false],
+          [1, "Name", 1, "Cam", false, false, 8522084662131715, false],
           [1, "HP", 0, 92, false, false, 4067313995094888, false],
           [1, "MaxHP", 0, 92, false, false, 2742940924955148, false],
           [1, "KR", 0, 0, false, false, 2189987320058474, false],
@@ -31171,8 +31171,8 @@
                     13,
                     [7, [0, 0]],
                     [7, [0, 99]],
-                    [7, [2, "Butterscotch Pie"]],
-                    [7, [2, "Pie"]]
+                    [7, [2, "Pizza Roll"]],
+                    [7, [2, "P. Roll"]]
                   ]
                 ]
               ],
@@ -31188,8 +31188,8 @@
                     13,
                     [7, [0, 0]],
                     [7, [0, 90]],
-                    [7, [2, "Instant Noodles"]],
-                    [7, [2, "I.Noodles"]]
+                    [7, [2, "Toad in the Hole"]],
+                    [7, [2, "T.I.T.H."]]
                   ]
                 ]
               ],
@@ -31205,8 +31205,8 @@
                     13,
                     [7, [0, 0]],
                     [7, [0, 60]],
-                    [7, [2, "Face Steak"]],
-                    [7, [2, "Steak"]]
+                    [7, [2, "Ramen"]],
+                    [7, [2, "Ramen"]]
                   ]
                 ]
               ],
@@ -31222,8 +31222,8 @@
                     13,
                     [7, [0, 0]],
                     [7, [0, 40]],
-                    [7, [2, "Legendary Hero"]],
-                    [7, [2, "L. Hero"]]
+                    [7, [2, "Chicken Nuggets"]],
+                    [7, [2, "C. Nugs"]]
                   ]
                 ]
               ]
